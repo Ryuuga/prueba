@@ -1,2 +1,2 @@
 # prueba
-Prueba de código Python (NA)
+Prueba de código en Python (NA)
